@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.Map;
 
 public final class ReversiBoard {
-
     private static final Map<Integer, Character> NUMBERS_AS_LETTERS = Map.ofEntries(
             Map.entry(0, 'A'),
             Map.entry(1, 'B'),
